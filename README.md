@@ -1,10 +1,10 @@
-##ℹ️Introduction
+## Introduction
 안녕하세요👋
 
 ## Career
 -
 
-##⚡Link
+## Link
 
 
 <!--
