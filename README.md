@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4da2fc,100:8F9DFE&text=Welcome%20to%20Jimin's%20Github&fontColor=ffffff&fontSize=50&section=header&fontAlignY=45&reversal=false" />
     </div>
     
-1조개의 파라미터가 지배하는 세상이라 할지라도,
-결과에 매몰되지 않고 과정의 고귀함을 누리며 학문에 精進하는 것!
+
 
 ## 🌱Career
 - 인싸 대구 중구! 학생 UCC 영상 공모전 장려 (2022.6)
